@@ -1,0 +1,15 @@
+E:\WindowsPhone\WindowsConnect\PeopleHub\PeopleHub\Bin\Debug\ApplicationIcon.png
+E:\WindowsPhone\WindowsConnect\PeopleHub\PeopleHub\Bin\Debug\Background.png
+E:\WindowsPhone\WindowsConnect\PeopleHub\PeopleHub\Bin\Debug\PeopleHub.dll
+E:\WindowsPhone\WindowsConnect\PeopleHub\PeopleHub\Bin\Debug\PeopleHub.pdb
+E:\WindowsPhone\WindowsConnect\PeopleHub\PeopleHub\Bin\Debug\AppManifest.xaml
+E:\WindowsPhone\WindowsConnect\PeopleHub\PeopleHub\Bin\Debug\PeopleHub.xap
+E:\WindowsPhone\WindowsConnect\PeopleHub\PeopleHub\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\WindowsPhone\WindowsConnect\PeopleHub\PeopleHub\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\WindowsPhone\WindowsConnect\PeopleHub\PeopleHub\obj\Debug\ResolveAssemblyReference.cache
+E:\WindowsPhone\WindowsConnect\PeopleHub\PeopleHub\obj\Debug\App.g.i.cs
+E:\WindowsPhone\WindowsConnect\PeopleHub\PeopleHub\obj\Debug\MainPage.g.i.cs
+E:\WindowsPhone\WindowsConnect\PeopleHub\PeopleHub\obj\Debug\PeopleHub.g.resources
+E:\WindowsPhone\WindowsConnect\PeopleHub\PeopleHub\obj\Debug\PeopleHub.dll
+E:\WindowsPhone\WindowsConnect\PeopleHub\PeopleHub\obj\Debug\PeopleHub.pdb
+E:\WindowsPhone\WindowsConnect\PeopleHub\PeopleHub\obj\Debug\XapCacheFile.xml
